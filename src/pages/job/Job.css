@@ -1,0 +1,8 @@
+.job-inspector {
+  text-align: left;
+  height: 100%;
+}
+.text-area {
+  width: 100%;
+  min-height: 150px;
+}
