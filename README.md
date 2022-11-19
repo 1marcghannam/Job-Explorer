@@ -70,7 +70,7 @@ const settings = {
 
 const bridgeName = "coingecko";
 
-const adapterUrl = `${format.prefix} + ${bridgeName} + ${format.suffix}`;
+const adapterUrl = `${settings.format.prefix} + ${bridgeName} + ${settings.format.suffix}`;
 
 // Result : https://coingecko-adapter.prod.linkpool.io/
 ```
